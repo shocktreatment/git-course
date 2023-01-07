@@ -1,0 +1,20 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Crash course for Git",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shocktreatment/git-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shocktreatment/git-course/issues"
+  },
+  "homepage": "https://github.com/shocktreatment/git-course#readme"
+}
